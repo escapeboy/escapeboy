@@ -39,6 +39,24 @@ The thread running through my recent work: agents should be **inspectable** — 
 
 - [**ai-prompts**](https://github.com/escapeboy/ai-prompts) — project-agnostic guides and agents for getting more out of Claude Code
 - [**nra-audit-generator**](https://github.com/escapeboy/nra-audit-generator) — NRA orders audit XML generator for Bulgarian e-shops ([OpenCart module](https://github.com/escapeboy/nra-opencart))
+- [**claude-limit-notifier**](https://github.com/escapeboy/claude-limit-notifier) — warns you before you hit your Claude subscription's weekly limit; one Python file, stdlib only
+
+### 🧪 Side projects
+
+- [**SlotForge**](https://github.com/escapeboy/casino-builder) — a factory for slot games: a spec goes in, a playable PixiJS game comes out, every claim checked by a script
+- [**party-sim**](https://github.com/escapeboy/party-sim) — Bulgarian election simulation with real CIK data and Monte Carlo modeling (Go)
+- [**aed-karlovo**](https://github.com/escapeboy/aed-karlovo) · [**skb-aed**](https://github.com/escapeboy/skb-aed) — public maps of AED defibrillators in Karlovo and across Bulgaria
+- [**servanda**](https://github.com/escapeboy/servanda) — reference implementation of the Servanda protocol
+
+<details>
+<summary>🗄️ Older Laravel packages</summary>
+
+- [**jraty**](https://github.com/escapeboy/jraty) — item ratings with optional microdata
+- [**borica**](https://github.com/escapeboy/borica) · [**laravel-epay**](https://github.com/escapeboy/laravel-epay) — Bulgarian payment gateways (BORICA, ePay) for Laravel
+- [**disqus**](https://github.com/escapeboy/disqus) — Disqus integration for Laravel 4
+- [**ZeroController**](https://github.com/escapeboy/ZeroController) — Laravel ZeroController for faster development
+
+</details>
 
 ---
 
