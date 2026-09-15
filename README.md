@@ -16,7 +16,7 @@ The thread running through my recent work: agents should be **inspectable** — 
 | [**Actio**](https://actio.bg) | SaaS for volunteer organizations in Bulgaria — teams, tasks, events and campaigns in one place |
 | [**Eventico**](https://eventico.live) | Event app — live agenda, Q&A, materials and post-event reports. One QR scan, no app to install |
 | [**FleetQ Partners**](https://partners.fleetq.net) | Partner program for the whole FleetQ portfolio — promote any product, earn on every attributed sale |
-| [**AED Karlovo**](http://aed.karlovo.net) | Map of publicly accessible defibrillators in Karlovo municipality |
+| [**Localz.Events**](https://localz.events) | Discover events and places near you — concerts, meetups, sports and more across Bulgaria |
 
 ---
 
