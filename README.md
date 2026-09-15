@@ -6,9 +6,23 @@ The thread running through my recent work: agents should be **inspectable** — 
 
 ---
 
-### 🚀 FleetQ — AI agent orchestration
+### 🛠️ What I'm building
 
-**[FleetQ](https://fleetq.net)** is a self-hosted mission control for autonomous multi-agent systems — visual DAG workflows, human-in-the-loop approvals, budget controls, and every feature exposed over MCP. Open source (AGPL-3.0), with a managed cloud at [fleetq.net](https://fleetq.net).
+| Product | What it does |
+|---|---|
+| [**FleetQ**](https://fleetq.net) | Mission control for AI agents — build, run and monitor autonomous multi-agent systems with visual DAG workflows, human-in-the-loop approvals and MCP integrations |
+| [**FleetQ Accounting**](https://accounting.fleetq.net) | AI agents for accounting firms — classify documents, suggest ledger entries and track deadlines. OCR, VAT, SAF-T |
+| [**Signalio**](https://signalio.app) | Real-time crisis alerts — fires, floods and disasters near you, so you can react in time |
+| [**Actio**](https://actio.bg) | SaaS for volunteer organizations in Bulgaria — teams, tasks, events and campaigns in one place |
+| [**Eventico**](https://eventico.live) | Event app — live agenda, Q&A, materials and post-event reports. One QR scan, no app to install |
+| [**FleetQ Partners**](https://partners.fleetq.net) | Partner program for the whole FleetQ portfolio — promote any product, earn on every attributed sale |
+| [**AED Karlovo**](http://aed.karlovo.net) | Map of publicly accessible defibrillators in Karlovo municipality |
+
+---
+
+### 🚀 FleetQ — open source
+
+The core of [FleetQ](https://fleetq.net) is open source (AGPL-3.0): a self-hosted mission control for autonomous multi-agent systems, with every feature exposed over MCP.
 
 | Project | What it is |
 |---|---|
@@ -45,7 +59,7 @@ The thread running through my recent work: agents should be **inspectable** — 
 
 - [**SlotForge**](https://github.com/escapeboy/casino-builder) — a factory for slot games: a spec goes in, a playable PixiJS game comes out, every claim checked by a script
 - [**party-sim**](https://github.com/escapeboy/party-sim) — Bulgarian election simulation with real CIK data and Monte Carlo modeling (Go)
-- [**aed-karlovo**](https://github.com/escapeboy/aed-karlovo) · [**skb-aed**](https://github.com/escapeboy/skb-aed) — public maps of AED defibrillators in Karlovo and across Bulgaria
+- [**skb-aed**](https://github.com/escapeboy/skb-aed) — national AED defibrillator map; source of [AED Karlovo](https://github.com/escapeboy/aed-karlovo) is open too
 - [**servanda**](https://github.com/escapeboy/servanda) — reference implementation of the Servanda protocol
 
 <details>
@@ -62,4 +76,4 @@ The thread running through my recent work: agents should be **inspectable** — 
 
 **Stack:** PHP · Laravel · Livewire · Rust · Kotlin · Swift · TypeScript · Python · Go · PostgreSQL · Docker · MCP
 
-**Also:** [PriceX](https://pricex.app) · [KarlovoTech](https://github.com/KarlovoTech) · [LaraMod](https://github.com/LaraModulus) (archived)
+**Also:** [pricex.app](https://pricex.app) · [KarlovoTech](https://github.com/KarlovoTech) · [LaraMod](https://github.com/LaraModulus) (archived)
