@@ -17,6 +17,10 @@ The thread running through my recent work: agents should be **inspectable** — 
 | [**Eventico**](https://eventico.live) | Event app — live agenda, Q&A, materials and post-event reports. One QR scan, no app to install |
 | [**FleetQ Partners**](https://partners.fleetq.net) | Partner program for the whole FleetQ portfolio — promote any product, earn on every attributed sale |
 | [**Localz.Events**](https://localz.events) | Discover events and places near you — concerts, meetups, sports and more across Bulgaria |
+| [**Kvesta**](https://kvesta.app) | Outdoor escape games on your phone — routes in Karlovo, Plovdiv and anywhere you drop a marker. One ticket per team, no guide, no booking |
+| [**Ploshtad**](https://ploshtad.bg) | Municipal decisions in plain language — reads council minutes and sends each person only what affects them |
+| [**Diazoma**](https://diazoma.app) | Browse any list on the web as a wall — feeds, catalogs, galleries and archives as a curved, searchable wall, on screen or in a headset. The wall, adapters and spec are open source |
+| [**Albion Trade Intelligence**](https://albionintel.com) | Market analysis and trading for Albion Online — live prices across cities, arbitrage, trade routes, backtested strategies and price alerts |
 
 ---
 
@@ -30,6 +34,7 @@ The core of [FleetQ](https://fleetq.net) is open source (AGPL-3.0): a self-hoste
 | [**harbormaster**](https://github.com/FleetQ/harbormaster) | MCP server that routes questions and tasks to any of your projects, locally or over SSH |
 | [**fleetq-bridge**](https://github.com/escapeboy/fleetq-bridge) | Connects FleetQ cloud agents to your local LLMs, coding agents and MCP servers (Go) |
 | [**plugin-sdk**](https://github.com/FleetQ/plugin-sdk) | Contracts and DTOs for building FleetQ plugins |
+| [**website-plugin-\***](https://github.com/FleetQ?q=website-plugin) | Blocks for the FleetQ Website Builder — [core](https://github.com/FleetQ/website-plugin-core), [blog](https://github.com/FleetQ/website-plugin-blog), [forms](https://github.com/FleetQ/website-plugin-forms), [chatbot](https://github.com/FleetQ/website-plugin-chatbot), [e-commerce](https://github.com/FleetQ/website-plugin-ecommerce) (Stripe, Paddle) |
 
 ### 🧠 Agent memory & tooling
 
@@ -47,11 +52,11 @@ The core of [FleetQ](https://fleetq.net) is open source (AGPL-3.0): a self-hoste
 | [**boruna**](https://github.com/escapeboy/boruna) | Deterministic, policy-gated workflow execution with tamper-evident evidence bundles (Rust) |
 | [**stozher**](https://github.com/escapeboy/stozher) | Accountability kernel: every agent effect is a signed event under a mandate traceable to a named human |
 | [**lattice**](https://github.com/escapeboy/lattice) | Governance browser runtime for agents, firewalled by default |
-| [**servanda-protocol**](https://github.com/escapeboy/servanda-protocol) | An open protocol for commitments (draft spec) |
+| [**servanda**](https://github.com/escapeboy/servanda) | An open protocol for commitments — reference implementation; the draft spec lives in [servanda-protocol](https://github.com/escapeboy/servanda-protocol) |
 
 ### 📚 Sharing what works
 
-- [**ai-prompts**](https://github.com/escapeboy/ai-prompts) — project-agnostic guides and agents for getting more out of Claude Code
+- [**claude-code-kit**](https://github.com/escapeboy/claude-code-kit) — skills, mods, subagents, hooks, slash commands and guides for Claude Code, installable by your agent
 - [**nra-audit-generator**](https://github.com/escapeboy/nra-audit-generator) — NRA orders audit XML generator for Bulgarian e-shops ([OpenCart module](https://github.com/escapeboy/nra-opencart))
 - [**claude-limit-notifier**](https://github.com/escapeboy/claude-limit-notifier) — warns you before you hit your Claude subscription's weekly limit; one Python file, stdlib only
 
@@ -60,7 +65,8 @@ The core of [FleetQ](https://fleetq.net) is open source (AGPL-3.0): a self-hoste
 - [**SlotForge**](https://github.com/escapeboy/casino-builder) — a factory for slot games: a spec goes in, a playable PixiJS game comes out, every claim checked by a script
 - [**party-sim**](https://github.com/escapeboy/party-sim) — Bulgarian election simulation with real CIK data and Monte Carlo modeling (Go)
 - [**skb-aed**](https://github.com/escapeboy/skb-aed) — national AED defibrillator map; source of [AED Karlovo](https://github.com/escapeboy/aed-karlovo) is open too
-- [**servanda**](https://github.com/escapeboy/servanda) — reference implementation of the Servanda protocol
+- [**chirak**](https://github.com/escapeboy/chirak) — an agent that turns a task description and a few examples into a small self-hosted specialist model: eval-first, LoRA on an AMD Instinct GPU, honest stop rules
+- [**diazoma**](https://github.com/escapeboy/diazoma) — the open-source wall, adapters and spec behind Diazoma, plus [WordPress](https://github.com/escapeboy/diazoma-wordpress) and [Laravel](https://github.com/escapeboy/diazoma-laravel) plugins
 
 <details>
 <summary>🗄️ Older Laravel packages</summary>
