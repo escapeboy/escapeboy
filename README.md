@@ -21,6 +21,11 @@ The thread running through my recent work: agents should be **inspectable** — 
 | [**Ploshtad**](https://ploshtad.bg) | Municipal decisions in plain language — reads council minutes and sends each person only what affects them |
 | [**Diazoma**](https://diazoma.app) | Browse any list on the web as a wall — feeds, catalogs, galleries and archives as a curved, searchable wall, on screen or in a headset. The wall, adapters and spec are open source |
 | [**Albion Trade Intelligence**](https://albionintel.com) | Market analysis and trading for Albion Online — live prices across cities, arbitrage, trade routes, backtested strategies and price alerts |
+| [**Pravoto**](https://pravoto.app) | Bulgarian and EU law in force, consolidated and free — every act with its amendments applied in one text |
+| [**FleetQ Office**](https://office.fleetq.net) | Invoices, expenses snapped with your phone and cash flow — everything reaches your accountant automatically |
+| [**Agent Storefront**](https://storefront.fleetq.net) | Turns a business website into a verified profile AI agents can order from — prices, delivery and rules with sources; every request waits for the owner's approval |
+| [**Poligon**](https://poligon.fleetq.net) | Attack-tests AI agents against planted attacks in the mail, files and tools they read, and signs the report |
+| [**Utro**](https://utro.fleetq.net) | Every morning at 07:00 tells you what needs to happen today — from your calendar, AI sessions, git, mail and chats; raw content stays on your Mac |
 
 ---
 
